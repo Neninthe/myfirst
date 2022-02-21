@@ -1,0 +1,7 @@
+SQL
+Spring,
+Resful webservices
+Micro services
+Multithreading
+Git,
+Design patterns

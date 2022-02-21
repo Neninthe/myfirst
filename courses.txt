@@ -5,3 +5,4 @@ Micro services
 Multithreading
 Git,
 Design patterns
+AWS
